@@ -9,8 +9,8 @@ namespace CsTutorial
     internal class Auto
     {
         // Felder
-        public string farbe;
-        public int hoechstGeschwindigkeit;
+        public string farbe;    // Achtung - nur zu Demonstrationszwecken!
+        public int hoechstGeschwindigkeit;    // Achtung - nur zu Demonstrationszwecken!
 
 
         // Methoden
